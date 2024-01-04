@@ -1,8 +1,9 @@
-# 19_Kothiya-hospital
+ # 19_Kothiya-hospital
  hospital website 
-![127 0 0 1_5501_index html](https://github.com/Jeel1312/19_Kothiya-hospital/assets/153166867/4c8d3220-6f9e-4805-9c49-fddf2397446c)
-![127 0 0 1_5501_about html](https://github.com/Jeel1312/19_Kothiya-hospital/assets/153166867/571e9f28-a254-4c4f-ae2c-ec21df1564c6)
-![127 0 0 1_5501_service html](https://github.com/Jeel1312/19_Kothiya-hospital/assets/153166867/48534419-d87a-4c5b-a2db-47f909313668)
-![127 0 0 1_5501_why html](https://github.com/Jeel1312/19_Kothiya-hospital/assets/153166867/64adc56a-9921-4729-8529-b394ed53b68c)
-![127 0 0 1_5501_team html](https://github.com/Jeel1312/19_Kothiya-hospital/assets/153166867/820380e4-69fc-4c63-bfc8-446d8347ef70)
+![127 0 0 1_5500_index](https://github.com/Jeel1312/19_Kothiya-hospital/assets/153166867/e21817ae-49ff-4f4d-9cba-3037cda6d267)
+![127 0 0 1_5501_about html](https://github.com/Jeel1312/19_Kothiya-hospital/assets/153166867/e8d2eb87-e765-46d4-af4c-7c7945b4d5b3)
+![127 0 0 1_5501_service html (2)](https://github.com/Jeel1312/19_Kothiya-hospital/assets/153166867/6aa3eac7-d9c0-46d0-8ecb-7eb3d27018c6)
+![127 0 0 1_5501_why html (2)](https://github.com/Jeel1312/19_Kothiya-hospital/assets/153166867/e89f072c-cf94-43d8-98bd-9d388e1e7efc)
+![127 0 0 1_5501_team html (1)](https://github.com/Jeel1312/19_Kothiya-hospital/assets/153166867/7900dd85-43a3-4624-9664-5cbb167fef05)
+
 
