@@ -1,9 +1,5 @@
  # Kothiya-hospital
  Designed a visually appealing homepage featuring a hero section with key hospital highlights. Included sections for hospital services, doctor profiles, and patient testimonials. Used JavaScript to add interactive elements like a responsive navigation bar and image carousel. Ensured a fully responsive design for accessibility across all devices.
-## Technologies Used
-- HTML
-- CSS
-- Bootstrap
  
 ![127 0 0 1_5500_index](https://github.com/Jeel1312/19_Kothiya-hospital/assets/153166867/e21817ae-49ff-4f4d-9cba-3037cda6d267)
 ![127 0 0 1_5501_about html](https://github.com/Jeel1312/19_Kothiya-hospital/assets/153166867/e8d2eb87-e765-46d4-af4c-7c7945b4d5b3)
